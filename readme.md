@@ -8,5 +8,5 @@ This is an implementation for secure messaging using  IOTA API & IONIC
 [github.com/dulfrey](https://github.com/dulfrey/)
 
 ![github](http://i.imgur.com/0o48UoR.png (github icon with padding))
-[https://github.com/awakeelectroni](https://github.com/awakeelectronik)
+[github.com/awakeelectroni](https://github.com/awakeelectronik)
 
